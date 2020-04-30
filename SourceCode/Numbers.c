@@ -1,9 +1,9 @@
 #include<stdio.h>
 #include<math.h>
 
-int sum(int x,int y){
+int dif(int x,int y){
   return x+y;
 }
 int main(){
-  printf(sum(2,3));
+  printf(dif(3,2));
 }
