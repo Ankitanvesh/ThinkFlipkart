@@ -9,6 +9,9 @@ void toupper(char s[]){
 void toupper(char s[]){
  printf("making char lower");
 }
+void titlecase(char s[]){
+ printf("making title case");
+}
 
 int main(){
  char gre[]="hello world";
